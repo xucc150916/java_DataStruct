@@ -1,0 +1,3 @@
+# java_data_struct
+Java顺序表实现
+以JDK的ArrayList为实现模板
