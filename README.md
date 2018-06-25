@@ -1,6 +1,3 @@
-# java_data_struct
-
-
 MyArrayList.java 
 顺序表
 
