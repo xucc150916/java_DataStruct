@@ -126,7 +126,7 @@ public class MyLinkedList<T> implements Iterable<T> {
 
 
     /**
-     * 清空双链表
+     * 清空链表
      */
     private void doClear() {
         this.head = new Node<>(null, null, null);
