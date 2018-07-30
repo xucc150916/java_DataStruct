@@ -1,3 +1,5 @@
+maven管理的数据结构代码
+
 MyArrayList.java 
 顺序表
 
